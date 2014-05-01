@@ -79,7 +79,6 @@
 /home/clemo/phonegap/bjsmobil/platforms/android/assets/www \
 /home/clemo/phonegap/bjsmobil/platforms/android/assets/www/index.html \
 /home/clemo/phonegap/bjsmobil/platforms/android/assets/www/plugins \
-/home/clemo/phonegap/bjsmobil/platforms/android/assets/www/css \
 /home/clemo/phonegap/bjsmobil/platforms/android/assets/www/js \
 /home/clemo/phonegap/bjsmobil/platforms/android/assets/www/cordova_plugins.js \
 /home/clemo/phonegap/bjsmobil/platforms/android/assets/www/cordova.js \
@@ -89,6 +88,5 @@
 /home/clemo/phonegap/bjsmobil/platforms/android/assets/www/plugins/com.phonegap.plugins.barcodescanner/www \
 /home/clemo/phonegap/bjsmobil/platforms/android/assets/www/plugins/com.phonegap.plugins.barcodescanner/www/barcodescanner.js \
 /home/clemo/phonegap/bjsmobil/platforms/android/assets/www/js/index.js \
-/home/clemo/phonegap/bjsmobil/platforms/android/assets/www/js/barcodescanner.js \
 /home/clemo/phonegap/bjsmobil/platforms/android/assets/www/img/logo.png \
 /home/clemo/phonegap/bjsmobil/platforms/android/ant-build/AndroidManifest.xml \
