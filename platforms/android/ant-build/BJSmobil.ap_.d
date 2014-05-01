@@ -79,6 +79,7 @@
 /home/clemo/phonegap/bjsmobil/platforms/android/assets/www \
 /home/clemo/phonegap/bjsmobil/platforms/android/assets/www/index.html \
 /home/clemo/phonegap/bjsmobil/platforms/android/assets/www/plugins \
+/home/clemo/phonegap/bjsmobil/platforms/android/assets/www/css \
 /home/clemo/phonegap/bjsmobil/platforms/android/assets/www/js \
 /home/clemo/phonegap/bjsmobil/platforms/android/assets/www/cordova_plugins.js \
 /home/clemo/phonegap/bjsmobil/platforms/android/assets/www/cordova.js \
@@ -87,6 +88,9 @@
 /home/clemo/phonegap/bjsmobil/platforms/android/assets/www/plugins/com.phonegap.plugins.barcodescanner \
 /home/clemo/phonegap/bjsmobil/platforms/android/assets/www/plugins/com.phonegap.plugins.barcodescanner/www \
 /home/clemo/phonegap/bjsmobil/platforms/android/assets/www/plugins/com.phonegap.plugins.barcodescanner/www/barcodescanner.js \
+/home/clemo/phonegap/bjsmobil/platforms/android/assets/www/css/jquery.mobile-1.4.2.min.css \
+/home/clemo/phonegap/bjsmobil/platforms/android/assets/www/js/jquery.mobile-1.4.2.min.js \
 /home/clemo/phonegap/bjsmobil/platforms/android/assets/www/js/index.js \
+/home/clemo/phonegap/bjsmobil/platforms/android/assets/www/js/jquery-1.11.0.min.js \
 /home/clemo/phonegap/bjsmobil/platforms/android/assets/www/img/logo.png \
 /home/clemo/phonegap/bjsmobil/platforms/android/ant-build/AndroidManifest.xml \
